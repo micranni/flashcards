@@ -1,0 +1,27 @@
+# Environment variables (your secrets)
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Database files
+*.db
+*.sqlite3
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+temp/
