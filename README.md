@@ -1,4 +1,4 @@
-# Flashcard Generator
+# AI Powered Vocabulary Detector and Flashcard Generator 
 
 AI-powered flashcard creation from PDF, DOCX, and HTML files using OpenAI's GPT models.
 
